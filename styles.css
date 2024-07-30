@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+}
+.text{
+    font-size: 17px;
+    color: blueviolet;
+}
+.logo{
+    width: 90px;
+}
+#principal{
+    font-size: 70px;
+}
